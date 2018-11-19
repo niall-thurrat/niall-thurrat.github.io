@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "pre-compiling CSS for the first time"
+title:  "Pre-compiling CSS for the first time"
 author: Niall Thurrat
 ---
 - - - -
