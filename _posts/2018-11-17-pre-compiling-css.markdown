@@ -2,7 +2,6 @@
 layout: post
 title:  "Pre-compiling CSS for the first time"
 author: Niall Thurrat
-comments: true
 ---
 ***
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed eu tortor id turpis congue rhoncus a eget nulla. Sed quis malesuada ex. Duis condimentum, ex eget semper facilisis, libero ipsum auctor lacus, a rhoncus mi odio sit amet ligula. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Cras nec semper lacus. Pellentesque tristique ex in est pretium pharetra tempor sed sem. Vestibulum odio dui, posuere faucibus turpis vitae, feugiat tincidunt est.
