@@ -1,6 +1,6 @@
 ---
 layout: home
 title: Blog Posts
-permalink: /blog posts/
+permalink: /blog/
 ---
 hope the blogs work here!
