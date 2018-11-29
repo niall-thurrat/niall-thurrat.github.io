@@ -17,8 +17,8 @@ title: Niall's Static Stuff
 email: amidst_art@hotmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my new site! I'll be using this space to fulfil some requirements 
-  for my Webbprogrammer program at Linnéuniversitetet and I hope you find the content 
-  interesting.... and appropriate for a VG grade of course ;) 
+  for my web programming program at Linneaus University and I hope you find the content 
+  interesting.... and appropriate for a VG grade of course ;)
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://niall-thurrat.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: von_Diddler

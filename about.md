@@ -1,18 +1,15 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+#### *Irländare i Sverige*
+Jag kommer från Lisburn i Nordirland och flyttade till Sverige för fyra år sedan. Jag bor i Uppsala och jobbar för ett litet programvaruföretag i Stockholm. Jag tycker jättemycket om att resa och jag träffade min svenska fästmö i Austalien för nästan fem år sedan. Jag reste dit med ett Working Holiday -visum och bodde där i två år. Därefter bestämde jag mig för att komma till Sverige med min fästmö eftersom hon ville plugga vid Uppsala universitet och nu tycker vi att vår framtid är här i vackra Sverige.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+#### *Konstnär*
+För många år sedan studerade jag konst på University of Ulster i Belfast och ställde ut konst i några år efter. Självklart är det svårt att tjäna pengar som konstnär och jag har alltid målat för att njuta av det. Jag har därför alltid haft ett heltidsjobb som inte har något att göra med konst och målade på fritiden.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+#### *Webbprogrammerare student*
+Nu planerar jag att få ett jobb där jag kan vara kreativ men också tjäna bra pengar! Jag har alltid haft intresse i mjukvara och modern teknologi och det verkar som att jag har hittat det perfekta programmet på Linnéuniversitetet. Nu studerar jag Webbprogrammerare programmet distans.
 
-
-[jekyll-organization]: https://github.com/jekyll
