@@ -1,0 +1,14 @@
+Website author: Niall Thurrat
+Twitter: @von_Diddler
+From: Lisburn, Northern Ireland
+
+Adaptation of Jekyll boilerplate for the website: Johan Leitet, John Häggerud, Dan A. daalsmark
+university: Linnaeus University, Kalmar, Sweden
+
+Website template: the team at Jekyll
+website: https://jekyllrb.com/
+Twitter: @jekyllrb
+
+CSS preprocessor creators: the team at SASS
+website: https://sass-lang.com/
+Twitter: @SassCSS
