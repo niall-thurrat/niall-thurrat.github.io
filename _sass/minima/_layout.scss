@@ -13,7 +13,7 @@
 
 .site-title {
   @include relative-font-size(1.625);
-  font-weight: 300;
+  font-weight: 350;
   line-height: $base-line-height * $base-font-size * 2.25;
   letter-spacing: -1px;
   margin-bottom: 0;
@@ -21,7 +21,12 @@
 
   &,
   &:visited {
-    color: $grey-color-dark;
+    color: $text-color-bright;
+  }
+
+  &:hover {
+    color: lighten($brand-color, 25%);
+    text-decoration: underline;
   }
 }
 
@@ -38,12 +43,17 @@
   }
 
   .page-link {
-    color: $text-color;
+    color: $text-color-bright;
     line-height: $base-line-height;
-
+    
     // Gaps between nav items, but not on the last one
     &:not(:last-child) {
       margin-right: 20px;
+    }
+
+    &:hover {
+      color: lighten($brand-color, 25%);
+      text-decoration: underline;
     }
   }
 
@@ -109,6 +119,8 @@
 .site-footer {
   border-top: 1px solid $grey-color-light;
   padding: $spacing-unit 0;
+  background-color:  $grey-color-dark;
+  color: $text-color-bright;
 }
 
 .footer-heading {
@@ -124,9 +136,27 @@
 
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
-  color: $grey-color;
+  
   margin-left: -$spacing-unit / 2;
   @extend %clearfix;
+
+  a {
+    color: $brand-color;
+    text-decoration: none;
+  
+    &:hover {
+      color: lighten($brand-color, 25%) ;
+      text-decoration: underline;
+    }
+  
+    .social-media-list &:hover {
+      text-decoration: none;
+  
+      .username {
+        text-decoration: underline;
+      }
+    }
+  }
 }
 
 .footer-col {
